@@ -6,7 +6,6 @@ Welcome to the repository for the **Credit Card Transaction Report** and **Credi
 
 This project focuses on visualizing and analyzing credit card transaction data and customer demographics. The reports aim to help stakeholders understand transaction trends, customer spending behavior, and other key metrics that are crucial for decision-making in the financial sector.
 
-## Reports
 
 ### Credit Card Transaction Report
 
@@ -36,8 +35,4 @@ This report offers an in-depth look at the customer base, including:
 - **Excel/CSV**: Data sources for loading transaction and customer data.
 - **DAX**: Data Analysis Expressions (DAX) for creating custom metrics and calculations within Power BI.
 
-## How to Use
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
